@@ -34,8 +34,8 @@ Todoitem.propTypes= {
 }
 
 const btnStyle = {
-    backGround: '#ff0000',
-    color: '#fff',
+    backGround: 'red',
+    color: 'red',
     border: 'none',
     padding: '10px 10px',
     borderRadius: '50%',
